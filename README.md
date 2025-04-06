@@ -1,4 +1,5 @@
 # Alesta-Lock
+<HTML>
 <title>UYARI</title>
 ALESTA-LOCK TAMAMEN EĞİTİM AMAÇLI OLUP YASADIŞI KULLANIM FAALİYETİ DURUMUNDA
 SORUMLULUK ALMAZ
@@ -18,3 +19,4 @@ cd Alesta-Lock
 pip install colorama
 python3 atasfr.py
 ```
+<\HTML>
