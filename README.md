@@ -19,7 +19,10 @@ cd Alesta-Lock
 pip install colorama
 python3 atasfr.py
 ```
-Sosyal medya hesaplarımız :
-Telegram: t.me/Alestavia
-İnstagram: fcan_ogr.04
-<h1>İYİ KULLANIMLAR!</h1>
+<h1>SOSYAL MEDYA HESAPLARIM!</h1>
+Sosyal medya hesaplarımız:
+*-------------------------*
+| Telegram: t.me/ALESTAVİA |
+| İnstagram: fcan_ogr.04   |
+*-------------------------*
+
